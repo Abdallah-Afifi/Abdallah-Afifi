@@ -1,20 +1,26 @@
-### Hi there 👋
+<h2> Hi, I'm Abdallah Afifi! 
+<p><em> 🔭 Computer Science & Math Student at <a href="https://www.aucegypt.edu">The American University in Cairo</a>
+</em></p>
 
-- 🌱 I’m currently learning Machine learning
-- 📫 How to reach me: www.linkedin.com/in/mihany
-- ⚡ Fun fact: I like to cook and eat.
-<!--
-**mihany/mihany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+<br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Snake](https://github.com/mihany/mihany/blob/master/github-contribution-grid-snake.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
